@@ -10,11 +10,11 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "John Ladan"
-  sub = "I'm a software developer"
+  main = "Dr. John Ladan"
+  sub = "Ph.D. Physics, MMath." # </br> 🧐 Take Me Seriously.🫵 "
 
 [params.main]
-  latestPublishHeader = "Something"
+  latestPublishHeader = "Latest project"
 
 [taxonomies]
   design = "designs"
@@ -41,9 +41,9 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  backgroundImage = '' # TODO header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # TODO default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/john-ladan-square.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
@@ -69,8 +69,8 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "about"
-  name = "About"
-  title = "About section"
+  name = "Resume"
+  title = "my experience"
   url = "/about/"
   weight = -120
 
@@ -81,12 +81,12 @@ pygmentsCodeFences=true
   url = "/portfolio/"
   weight = -110
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
+# [[menu.main]]
+#   identifier = "blog"
+#   name = "Post"
+#   title = "Blog section"
+#   url = "/post/"
+#   weight = -100
 
 [sitemap]
   changefreq = "monthly"
