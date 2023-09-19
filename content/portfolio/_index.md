@@ -3,4 +3,4 @@ title: PORTFOLIO
 description: 'Portfolio Section'
 ---
 
-You'll add here a general introduction of your portfolio page.
+Click on the images below to see some of my recent work.
