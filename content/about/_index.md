@@ -1,67 +1,49 @@
 ---
-title: Experience
-description: My academic and work experience (that is, my resume)
-images: ["/images/sample.jpg"]
+title: About me
+description: A bio of my time as a PhD student
+images: []
 ---
 
-## Skills
-### Programming:
-- Python, using numpy, scipy, pandas, scikit-learn
-- SQL and database design
-### Data Science & Analysis:
-- Data Visualization using matplotlib-based libraries
-- Experiment design
-- Statistics
-- Image processing and computer vision
-### Soft skills:
-- Team oriented
-- Strong knowledge of data analysis and visualization
-- Effective communicator.
+My name is John Ladan. I'm a recent PhD graduate in Physics from the University
+of Toronto, with a previous Masters of Applied Mathematics from the University
+of Waterloo. Throughout my academic career, I've maintained a love of computer
+science and mathematics. I'm excited to re-enter the workforce in a career in
+data science, machine learning, or software development.
 
-## Education
+As a PhD student, I had to manage multiple priorities, including research,
+teaching, course development, and my own life. Software development was
+necessary to actually accomplish all of these things.
 
-### PhD, Physics
-**University of Toronto**, Toronto, ON</br>
-**Supervisor:** Stephen Morris</br>
-**Dissertation:** [Experiments on the Formation of Rippled Icicles](/portfolio/thesis)
+In my spare time, I enjoy reading, going on motorcycle camping trips, and a bit
+of woodworking. I'm a bit of a unix neckbeard at heart, so I spend a lot of time
+in the terminal, using vim, and bash scripts. I also enjoy learning and using
+new programming languages -- most recently Rust, Go, and Elixir.
 
-### Master of Mathematics (Applied Math)
-**University of Waterloo**, Waterloo, ON</br>
-**Supervisor**: Professor E.R. Vrscay</br>
-**Dissertation**: An Analysis of Stockwell Transforms, With Applications to Image
-Processing.
+My PhD research was about how icicles grow with impurities; a specific case of
+wet-ice formation. I discovered that small amounts of impurities like salt
+increase the retention of water on the surface, and become trapped inside
+pockets of brine. This changes the shape and growth rate of ice. While a niche
+subject, better models of ice growth have broader applications to geophysics and
+engineering, and ice is a surprisingly challenging field with many open
+problems. 
 
-### Bachelor of Mathematics (Applied Math)
-**University of Waterloo**, Waterloo, ON
+To perform my experiment, I built the "Icicle Machine", producing roughly 20 TB
+of images from which I extracted the topography and surface liquid distribution.
+To analyze such a large data set, I automated the process using Python and bash
+scripts with a touch of C++ and javascript. Of course, with over 10k LOC
+written, version control with git was a necessity.
 
-## Work Experience
+I'm also quite proud of my work with the advanced undergraduate physics lab at U
+of T. As part of that, I set up git repositories on the department's GitLab
+server for all the lab software provided to students to run and analyze
+experiments. 
 
-### Course Instructor
-Sept. 2022 – April 2023</br>
-**Physics Department, University of Toronto**</br>
-- Instructed PHY424, an advanced undergraduate physics lab course.
-- Developed Python modules for equipment control and data acquisition and analysis.
-- Provided individual guidance in data management and analysis, and conducted oral exams.
+I enjoyed working with the students, teaching them how to troubleshoot
+equipment, debug and understand their scripts, and think analytically about
+their results. After proving myself as a TA for the course, I was hired as an
+instructor in the 2022-2023 academic year.
 
-### Course Materials Developer
-2016 – 2022</br>
-**Physics Department, University of Toronto**</br>
-- Primary Developer and maintainer of data analysis software for student use in the advanced
-undergraduate physics lab.
-
-### Computational Mathematics and Physics Tutor
-2019 – 2021</br>
-**University of Toronto**</br>
-- One-on-one tutoring of a Ph.D. student for simulating an Agent-Based Indoor Chemical
-Exposure Model.
-- Python for numerical simulation and data analysis using Numpy, Pandas, Scipy, and Mat-
-plotlib.
-· Sensitivity analysis, data management, calculating metrics.
-
-### Vice President Internal
-Sept. 2016 – Aug. 2018</br>
-**Physics Graduate Student Association**, University of Toronto</br>
-- Created and managed daily coffee sessions for a department of 250+ students and faculty,
-improving department morale and facilitating networking.
-- Advocated for graduate student interests as member of Physics department Grad Liason
-committee.
+In addition to my instruction and TA work, I was hired as a tutor for a fellow
+PhD student, teaching him how to use Python for numerical simulation of ODEs,
+Git/Github, and performing code-reviews. His work was about workplace exposure
+to SVOCs, and the model I helped implement led to several published papers.

@@ -37,7 +37,6 @@ point of having a novel, time-varying model of human exposure to chemical
 pollutants in workplace environments. His model was the foundation of several
 academic papers on the subject.
 
-<!-- TODO rewrite this  paragraph -->
 When I'm not immersed in coding or crunching numbers, you can find me seeking
 inspiration from the world around us, whether it's through hiking in nature or
 exploring the latest advancements in technology.
