@@ -78,7 +78,7 @@ pygmentsCodeFences=true
   identifier = "resume"
   name = "Resume"
   title = "My Experience"
-  url = "/about/resume"
+  url = "/resume"
   weight = -120
 
 [[menu.main]]
